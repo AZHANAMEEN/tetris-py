@@ -1,2 +1,2 @@
-# tetris-py
+# tetris godot
 my take at making the tetris game
